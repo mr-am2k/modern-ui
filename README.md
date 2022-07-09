@@ -1,6 +1,7 @@
 The purpose of this project is to learn how to turn Figma design into an actual website. 
 Also one new thing that I used is BEM naming convetion for CSS. 
 Link for the Figma design: https://www.figma.com/file/lz9lLpFHMxHm2odnwM3R0z/gpt3
+Website link: https://gpt3-figma.vercel.app/
 
 ## Available Scripts
 
